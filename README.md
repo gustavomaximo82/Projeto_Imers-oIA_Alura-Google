@@ -1,4 +1,4 @@
-Controle gastos em Supermercado com auxilip de IA
+Controle gastos em Supermercado com auxilio de IA
 
 Objetivo
 Este projeto utiliza o poder da combinação entre Python e Inteligência Artificial (Gemini) para:
